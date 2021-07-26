@@ -4,7 +4,7 @@ supporting software / resources for the Korad KEL103 electronic load
 # factory-provided software
 the KEL103 comes with accessories including a CD with some windows software. Korad has [hosted these files here](http://www.koradtechnology.com/companyfile/19.html).
 
-another copy of these files is available at [cdn.subluminal.li/third-party/korad/kel103/cd.zip](https://cdn.subluminal.li/third-party/korad/kel103/cd.zip)
+another copy of these files is available at [cdn.subluminal.li/third-party/korad/kel103/factory/cd.zip](https://cdn.subluminal.li/third-party/korad/kel103/factory/cd.zip)
 
 noteworthy components of the software package
 
