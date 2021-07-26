@@ -60,3 +60,9 @@ once connected to the device through the assistant software you can configure th
   * **IP Addres**: desired static ip address
   * **NetMask**: ??? - try entering the network mask that the router uses
   * **GateWay**: ??? - try entering the ip address of the router/gateway
+
+# tools
+
+name | filepath | description
+-----|----------|------------
+ping.py | ```tools/ping.py``` | utility to quickly ping a range of addresses on the network
